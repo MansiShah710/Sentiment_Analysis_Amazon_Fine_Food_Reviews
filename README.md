@@ -1,4 +1,3 @@
-# Text_Mining_Project
 
 # Sentiment analysis of Amazon fine food reviews
 
